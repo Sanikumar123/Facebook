@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103771" started-at="2018-12-15T13:50:37Z" finished-at="2018-12-15T13:52:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103771" started-at="2018-12-15T13:50:37Z" finished-at="2018-12-15T13:52:21Z">
+      <class name="fb.tests.LoginPageTestPage">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:fb.tests.LoginPageTestPage@5c7fa833]" name="setUP" is-config="true" duration-ms="60729" started-at="2018-12-15T19:20:37Z" finished-at="2018-12-15T19:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyLoginFunctionality()[pri:0, instance:fb.tests.LoginPageTestPage@5c7fa833]" name="verifyLoginFunctionality" duration-ms="42252" started-at="2018-12-15T19:21:38Z" finished-at="2018-12-15T19:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionality -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:fb.tests.LoginPageTestPage@5c7fa833]" name="tearDown" is-config="true" duration-ms="747" started-at="2018-12-15T19:22:20Z" finished-at="2018-12-15T19:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fb.tests.LoginPageTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
